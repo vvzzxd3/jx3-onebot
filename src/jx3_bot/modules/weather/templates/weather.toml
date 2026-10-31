@@ -1,0 +1,96 @@
+# 本地业务结果模板，不是已废弃的QQ官方template_id。
+# 动态值仅使用命名占位符；标题、正文与页脚可分别调整。
+[forecast]
+title = "☀ {label}｜每日天气"
+body = "{forecast}"
+footer = "{updated}\n数据来源：{sources}"
+
+[usage]
+title = "📊 天气模块额度"
+body = "统计月份：{month}\n外发尝试：{count}/{limit}\n剩余额度：{remaining}\n统计时区：{zone}"
+footer = "只统计本模块，不代表帐号账单。失败及重试也计数。"
+
+[city_saved]
+title = "📍 默认城市已保存"
+body = "已保存你在{scope}的默认城市输入：{query}"
+footer = "发送“天气”查询；“天气城市 删除”清除。仅保存你的主动输入。"
+
+[city_deleted]
+title = "📍 默认城市已清除"
+body = "已删除你在{scope}的默认城市。"
+footer = "需要时可重新设置：天气城市 北京"
+
+[city_current]
+title = "📍 默认城市"
+body = "{scope}默认城市输入：{query}"
+footer = "更改：天气城市 北京\n删除：天气城市 删除"
+
+[city_missing]
+title = "📍 尚未设置默认城市"
+body = "未设置默认城市。"
+footer = "用法：天气城市 北京"
+
+[query_missing]
+title = "☀ 天气查询指南"
+body = "请指定城市，例如：天气 北京。\n也可用“天气城市 北京”设置默认城市。"
+footer = "同名地点可补充行政区：天气 北京 朝阳"
+
+[invalid]
+title = "⚠ 输入格式有误"
+body = "城市输入过长或包含不支持的字符；天气额度不接受参数。"
+footer = "用法：天气 北京／天气 北京 朝阳／天气额度"
+
+[ambiguous_local]
+title = "📍 请选择查询城市"
+body = "存在同名城市，请用对应城市ID查询：\n{choices}"
+footer = "也可补充省／市／区县缩小范围。"
+
+[ambiguous_geo]
+title = "📍 需要更精确的位置"
+body = "该输入存在多个城市，请补充省／市／区县后重试。"
+footer = "例如：天气 北京 朝阳"
+
+[not_found]
+title = "📍 未找到城市"
+body = "未找到城市，请补充省／市／区县或检查输入。"
+footer = "例如：天气 北京／天气 北京 朝阳"
+
+[budget_exhausted]
+title = "⚠ 天气模块额度已用尽"
+body = "天气模块本月调用次数已达到配置上限，已停止外部请求。"
+footer = "请下月重试或联系维护者调整限额；已有效缓存仍可使用。"
+
+[no_weather]
+title = "☀ 暂无每日预报"
+body = "暂时没有可用的每日预报，请稍后重试。"
+footer = "这不是当前天气实况。"
+
+[auth_error]
+title = "⚠ 天气服务配置异常"
+body = "天气服务鉴权或权限异常，请联系维护者检查配置。"
+footer = "请勿在聊天中发送凭据或私钥。"
+
+[rate_limited]
+title = "⏳ 天气服务繁忙"
+body = "天气服务暂时限流，请稍后重试。"
+footer = "无需连续发送相同请求。"
+
+[unavailable]
+title = "⚠ 天气服务暂不可用"
+body = "天气服务暂时不可用，请稍后重试。"
+footer = "如持续发生，请联系维护者。"
+
+[expired]
+title = "⏳ 请求已过期"
+body = "请求已过期，请重新查询。"
+footer = ""
+
+[output_too_long]
+title = "⚠ 结果内容过长"
+body = "本次结果超出单条回复的安全长度，请缩小查询范围。"
+footer = "未截断结果，也未拆分为多次发送。"
+
+[route_unavailable]
+title = "⚠ 功能暂不可用"
+body = "该请求对应的功能配置已变更，请重新发送命令。"
+footer = ""

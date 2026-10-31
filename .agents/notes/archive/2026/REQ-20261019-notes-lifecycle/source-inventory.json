@@ -1,0 +1,162 @@
+[
+  {
+    "path": "docs/README.md",
+    "sha256": "c5705cfcf8a0794dd494c34e712a6bcdc64386dd8adfac86af172db564cc1097"
+  },
+  {
+    "path": "docs/chat-history/2026-10-13-data-model-proposal.md",
+    "sha256": "74209717664048834df11d61f378309ab475df019e395c15f32f1b79f20bc87e"
+  },
+  {
+    "path": "docs/chat-history/2026-10-13-database-review.md",
+    "sha256": "342da7dd8581ba2c8cf71af09c6af184e7f38ab6225e703f85827bbdc1594626"
+  },
+  {
+    "path": "docs/chat-history/2026-10-13-implementation.md",
+    "sha256": "518e80bfdea923723c98dca18b7dfa9b27762d722cad7b1a85ca46b37b2ad8c5"
+  },
+  {
+    "path": "docs/chat-history/2026-10-13-model-log-discussion.md",
+    "sha256": "b8e65141d0e19c7af529c1a86b7fa86705d0d27fd7f1b8c0fe24431eb8d6d173"
+  },
+  {
+    "path": "docs/chat-history/2026-10-16-permanent-history.md",
+    "sha256": "b1f71bd2307485d1b1927115c24dd3fcf0701e5ef2bc0aa723f454c47d2e5d7a"
+  },
+  {
+    "path": "docs/project/2026-10-10-official-implementation.md",
+    "sha256": "d36403ceb2c31e239a83c671f504e4c8424041b4fcc3ea4769be1d26db6d264f"
+  },
+  {
+    "path": "docs/project/2026-10-10-roadmap.md",
+    "sha256": "f0ddf41a2d1a410b09b713f077d371248cf97af0fb5ecf2673335687b6573a44"
+  },
+  {
+    "path": "docs/project/2026-10-10-websocket-weather.md",
+    "sha256": "054ccac8813762aad7bac2da2e058e777589e1b9ece463f96c9b03993937c024"
+  },
+  {
+    "path": "docs/project/2026-10-11-templates-matcher.md",
+    "sha256": "23253c25fe74533eb6df92961578083bcfea3b5d5b71324f53a88f1591dbc714"
+  },
+  {
+    "path": "docs/project/2026-10-12-multi-instance-todo.md",
+    "sha256": "92f42fb0a60afd9ebfee32614093de02f5f54317f11a7f2d676c16d8b0ebcd90"
+  },
+  {
+    "path": "docs/project/2026-10-16-official-only-cleanup.md",
+    "sha256": "67732afffbc5f4783b7dfde9f2c57f59b6869a9ccb2b5536d005b62b926904fa"
+  },
+  {
+    "path": "docs/project/2026-10-16-uv-entry-config-data-cleanup.md",
+    "sha256": "dad58a9ce5c15ff3d934d9e3dcedcca37cd80ec1aee97bd810c19d801b6b6c15"
+  },
+  {
+    "path": "docs/project/2026-10-16-uv-only-dependency-management.md",
+    "sha256": "b51e13ee95e24564b288681801ff4b1227d44dc837ba13433cd4f809d5754bc0"
+  },
+  {
+    "path": "docs/project/2026-10-16-uv-run-no-build-backend.md",
+    "sha256": "e4d635b44746ab1737fa9bc49d91d4a931e5e5193f31d48b15ec0f49374cb112"
+  },
+  {
+    "path": "docs/qq-integration/2026-10-10-architecture-migration.md",
+    "sha256": "1d8f1696405cd412ce713ed9e394af6c4a26a103efc47be0f295e4a6bbda0f27"
+  },
+  {
+    "path": "docs/qq-integration/2026-10-10-deployment.md",
+    "sha256": "4766d528d9897c198ebb8849c66f22a341010abb3d7c7c7a9903f33b2ad8bfb1"
+  },
+  {
+    "path": "docs/qq-integration/2026-10-10-implementation.md",
+    "sha256": "a3b60348e51dce2879d5aa20f40ab374d2750ff7e71aa0bdbd615357583ada89"
+  },
+  {
+    "path": "docs/qq-integration/2026-10-10-plan.md",
+    "sha256": "0069fcdca777a1050efa757bdd9c4093131d2b94bfa79f3302a7bb208f6cada4"
+  },
+  {
+    "path": "docs/qq-integration/2026-10-10-websocket-plan.md",
+    "sha256": "303f9f4f7fa3e3570301946a89cda6eb0ea2f74d850e3b00e4a5dd2f26e689dc"
+  },
+  {
+    "path": "docs/qq-integration/2026-10-11-console-observability-plan.md",
+    "sha256": "bbc5d2d63ebde7486e9f231abeeaed76822d9a087c63f5295c9ddb48c63d6a90"
+  },
+  {
+    "path": "docs/qq-integration/2026-10-11-matcher-templates.md",
+    "sha256": "b4a263060918e2341be7662c2ab0e661983a9608fe84ab76cc4edea1bf4decf4"
+  },
+  {
+    "path": "docs/qq-integration/2026-10-11-private-message-no-response.md",
+    "sha256": "5bd5d4c414f26ef5606d8e0d268dd7110db75244f988272fb3e92b886de5747b"
+  },
+  {
+    "path": "docs/qq-integration/2026-10-11-venv-ensurepip.md",
+    "sha256": "8022abf8008d48188195152015770701bdd61e871aea50d7d10204c2319e90a8"
+  },
+  {
+    "path": "docs/qq-integration/2026-10-12-websocket-proxy-importerror.md",
+    "sha256": "0f12c73ffd5bf4f9190e34a7aa61170fdfcc1125e0b3ef44151b06ab1e834de1"
+  },
+  {
+    "path": "docs/qq-integration/2026-10-16-api-call-guide.md",
+    "sha256": "53c4c428d889249f6332cb87fbda58c100494c185881a121d35b9c1183b85b2a"
+  },
+  {
+    "path": "docs/qq-integration/api-call-guide.html",
+    "sha256": "1262307b190853819aa762f941f979094c54815b6e01033cf156842611a25abd"
+  },
+  {
+    "path": "docs/templates/change-record.md",
+    "sha256": "b09f44cdd28b6055d6528089c4c126744fcd44dca86d596676f5fe0b3a5a2281"
+  },
+  {
+    "path": "docs/usage-analytics/2026-10-10-plan.md",
+    "sha256": "418041ee22518a38f67d9ea4260ad2a2a570caf3b980f2ec2cee00451458a22d"
+  },
+  {
+    "path": "docs/usage-analytics/2026-10-12-chat-storage-implementation.md",
+    "sha256": "980eaf6a56f976a5fbeb286e7d75f92b3a0170876bac1018abd35a2577b6d45d"
+  },
+  {
+    "path": "docs/usage-analytics/analytics.example.toml",
+    "sha256": "e3647f39ad0038bc2596de4326130c910af70787f9a06f1c4ba3d72c26b7eade"
+  },
+  {
+    "path": "docs/weather/2026-10-10-city-source-evaluation.md",
+    "sha256": "b2533ffacc45960abaee5ff570b87863801a47d4aa672f7a49aaad2b0c13b2a9"
+  },
+  {
+    "path": "docs/weather/2026-10-10-confirmation-plan.md",
+    "sha256": "cb75682cceeeaf32de43b56e53798bf836976f27f68c7f5e3bfc7960254c3264"
+  },
+  {
+    "path": "docs/weather/2026-10-10-implementation.md",
+    "sha256": "f7964f9d05df2510cdf14f30e66a506b2c877f2c16a7da1006f8d3964806eba7"
+  },
+  {
+    "path": "docs/weather/2026-10-10-qweather-plan.md",
+    "sha256": "048688eaef36c023bd1465fbd85194d36249947066f25c3f4c18a3ba8068b821"
+  },
+  {
+    "path": "docs/weather/2026-10-11-jwt-only.md",
+    "sha256": "0a60d189853596fc4eb6c0867760bc170b51472ff2c5c78ef371672a948238d1"
+  },
+  {
+    "path": "docs/weather/2026-10-12-module-aggregation.md",
+    "sha256": "cba817d9ae3a39f9b9aef28c63619fd516d0e417e59701737e519fb32071269f"
+  },
+  {
+    "path": "docs/weather/reference/README.md",
+    "sha256": "66e85ea91e967b9fac50973e4dd9adc968a1767a5f3793e6fa76044b0d731c20"
+  },
+  {
+    "path": "docs/weather/reference/heweather-city-api.md",
+    "sha256": "9364ad2f0d62418ecf23ddfd0f92578d33589b46514b0f957cd7734e88b931f9"
+  },
+  {
+    "path": "docs/weather/reference/heweather-daily-api.md",
+    "sha256": "bc4c33e19c5836f7f4eaf271750a3e63069a036f735e702e225ebb9336732d2e"
+  }
+]

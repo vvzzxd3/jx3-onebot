@@ -1,0 +1,266 @@
+[
+  {
+    "source": "docs/qq-integration/2026-10-10-plan.md",
+    "target": ".agents/notes/active/REQ-20261010-official-weather/legacy/qq-integration/2026-10-10-plan.md",
+    "source_sha256": "0069fcdca777a1050efa757bdd9c4093131d2b94bfa79f3302a7bb208f6cada4",
+    "target_sha256": "a9e05543b4fa46b3fccf8b2b28eead14cce4b5434da389c95f96fbe53b4e9fa7",
+    "body_without_link_destinations_sha256": "85783a79dc793f8d3b7a88320bb0c6788ca07b7bed24349857d3ed9a39ad14bf",
+    "banner": "> **历史材料／非现行规范**：2026-10-19迁入需求包。下文保留当时语境，不是当前决策、实施授权或默认上下文；旧待办与驳回不自动生效。收尾状态见需求主记录。原路径：`docs/qq-integration/2026-10-10-plan.md`。\n\n"
+  },
+  {
+    "source": "docs/qq-integration/2026-10-10-architecture-migration.md",
+    "target": ".agents/notes/active/REQ-20261010-official-weather/legacy/qq-integration/2026-10-10-architecture-migration.md",
+    "source_sha256": "1d8f1696405cd412ce713ed9e394af6c4a26a103efc47be0f295e4a6bbda0f27",
+    "target_sha256": "301624259fa6bb22439901723e6384a70b2b68200d691cb432808584106f9a91",
+    "body_without_link_destinations_sha256": "e5711b9ef263aa40c99f6be7880e79256262f0a365fe9c3fd5586d3545487d86",
+    "banner": "> **历史材料／非现行规范**：2026-10-19迁入需求包。下文保留当时语境，不是当前决策、实施授权或默认上下文；旧待办与驳回不自动生效。收尾状态见需求主记录。原路径：`docs/qq-integration/2026-10-10-architecture-migration.md`。\n\n"
+  },
+  {
+    "source": "docs/qq-integration/2026-10-10-websocket-plan.md",
+    "target": ".agents/notes/active/REQ-20261010-official-weather/legacy/qq-integration/2026-10-10-websocket-plan.md",
+    "source_sha256": "303f9f4f7fa3e3570301946a89cda6eb0ea2f74d850e3b00e4a5dd2f26e689dc",
+    "target_sha256": "3a37b489ec072f0ab2ba87edd799e3e2b1895d7b93d84b777c315174cac379fb",
+    "body_without_link_destinations_sha256": "53dfefd11ce34b7756651aab6a722e747f6baa2b5a175ce86a9ffe9206ccc724",
+    "banner": "> **历史材料／非现行规范**：2026-10-19迁入需求包。下文保留当时语境，不是当前决策、实施授权或默认上下文；旧待办与驳回不自动生效。收尾状态见需求主记录。原路径：`docs/qq-integration/2026-10-10-websocket-plan.md`。\n\n"
+  },
+  {
+    "source": "docs/qq-integration/2026-10-10-implementation.md",
+    "target": ".agents/notes/active/REQ-20261010-official-weather/legacy/qq-integration/2026-10-10-implementation.md",
+    "source_sha256": "a3b60348e51dce2879d5aa20f40ab374d2750ff7e71aa0bdbd615357583ada89",
+    "target_sha256": "2441770cbea407f0f746a0a4e778ab70e8055753255adbba3c0c46d557f25030",
+    "body_without_link_destinations_sha256": "f74e66eab962206c9e378a0b43dbb03afb7215b765480a078d518569f8dbf841",
+    "banner": "> **历史材料／非现行规范**：2026-10-19迁入需求包。下文保留当时语境，不是当前决策、实施授权或默认上下文；旧待办与驳回不自动生效。收尾状态见需求主记录。原路径：`docs/qq-integration/2026-10-10-implementation.md`。\n\n"
+  },
+  {
+    "source": "docs/weather/2026-10-10-qweather-plan.md",
+    "target": ".agents/notes/active/REQ-20261010-official-weather/legacy/weather/2026-10-10-qweather-plan.md",
+    "source_sha256": "048688eaef36c023bd1465fbd85194d36249947066f25c3f4c18a3ba8068b821",
+    "target_sha256": "e03e87a55cc359ed96fb51912b9380cc238866e61c70e709c3b8b5e775b457de",
+    "body_without_link_destinations_sha256": "07450a2f582b5a2a60e7104278dd5d9b00ee9cac034660e38110f41b5d4a7e93",
+    "banner": "> **历史材料／非现行规范**：2026-10-19迁入需求包。下文保留当时语境，不是当前决策、实施授权或默认上下文；旧待办与驳回不自动生效。收尾状态见需求主记录。原路径：`docs/weather/2026-10-10-qweather-plan.md`。\n\n"
+  },
+  {
+    "source": "docs/weather/2026-10-10-city-source-evaluation.md",
+    "target": ".agents/notes/active/REQ-20261010-official-weather/legacy/weather/2026-10-10-city-source-evaluation.md",
+    "source_sha256": "b2533ffacc45960abaee5ff570b87863801a47d4aa672f7a49aaad2b0c13b2a9",
+    "target_sha256": "6336e04c7d8c89fc78b37f56a0935fded352de17e9575da8403573822e9e64d1",
+    "body_without_link_destinations_sha256": "f406802018d1c6979510aaa13a739a23981ed9a9bb3eac3d46a1f366383c133c",
+    "banner": "> **历史材料／非现行规范**：2026-10-19迁入需求包。下文保留当时语境，不是当前决策、实施授权或默认上下文；旧待办与驳回不自动生效。收尾状态见需求主记录。原路径：`docs/weather/2026-10-10-city-source-evaluation.md`。\n\n"
+  },
+  {
+    "source": "docs/weather/2026-10-10-confirmation-plan.md",
+    "target": ".agents/notes/active/REQ-20261010-official-weather/legacy/weather/2026-10-10-confirmation-plan.md",
+    "source_sha256": "cb75682cceeeaf32de43b56e53798bf836976f27f68c7f5e3bfc7960254c3264",
+    "target_sha256": "371a7e85dfb22e5ba7186b164bbe0f44af2cd64b272034f4c7324d3f06ab212d",
+    "body_without_link_destinations_sha256": "7c13f10920d2eb9a632fa1b0778ba3459faa3d41cd48517d5f247b7904b5c9d3",
+    "banner": "> **历史材料／非现行规范**：2026-10-19迁入需求包。下文保留当时语境，不是当前决策、实施授权或默认上下文；旧待办与驳回不自动生效。收尾状态见需求主记录。原路径：`docs/weather/2026-10-10-confirmation-plan.md`。\n\n"
+  },
+  {
+    "source": "docs/weather/2026-10-10-implementation.md",
+    "target": ".agents/notes/active/REQ-20261010-official-weather/legacy/weather/2026-10-10-implementation.md",
+    "source_sha256": "f7964f9d05df2510cdf14f30e66a506b2c877f2c16a7da1006f8d3964806eba7",
+    "target_sha256": "9a6f341fd47e86246f32e132f5132bff079515c898ad79afb7caa8e0d187f381",
+    "body_without_link_destinations_sha256": "bc86e9316243e1e24a9ab4ab4e0d4e487626ef7ccfd794076c44590a5dd621fc",
+    "banner": "> **历史材料／非现行规范**：2026-10-19迁入需求包。下文保留当时语境，不是当前决策、实施授权或默认上下文；旧待办与驳回不自动生效。收尾状态见需求主记录。原路径：`docs/weather/2026-10-10-implementation.md`。\n\n"
+  },
+  {
+    "source": "docs/project/2026-10-10-websocket-weather.md",
+    "target": ".agents/notes/active/REQ-20261010-official-weather/legacy/project/2026-10-10-websocket-weather.md",
+    "source_sha256": "054ccac8813762aad7bac2da2e058e777589e1b9ece463f96c9b03993937c024",
+    "target_sha256": "0d5def8cdb83840513f730a95530e4dbd914ead5c954f6c80e904874a9265584",
+    "body_without_link_destinations_sha256": "74d3f18423888c594e1b483404fcc7f65c6e905e260b35b52b298ee5cd382b12",
+    "banner": "> **历史材料／非现行规范**：2026-10-19迁入需求包。下文保留当时语境，不是当前决策、实施授权或默认上下文；旧待办与驳回不自动生效。收尾状态见需求主记录。原路径：`docs/project/2026-10-10-websocket-weather.md`。\n\n"
+  },
+  {
+    "source": "docs/project/2026-10-10-official-implementation.md",
+    "target": ".agents/notes/active/REQ-20261010-official-weather/legacy/project/2026-10-10-official-implementation.md",
+    "source_sha256": "d36403ceb2c31e239a83c671f504e4c8424041b4fcc3ea4769be1d26db6d264f",
+    "target_sha256": "c91846f69a1f772fa1cf243a6fe02754fc23fbfeac2c2fef1861fa8f487f456d",
+    "body_without_link_destinations_sha256": "10c9c6144837409e8adc347ce3ce54c7ffd34803d656aeb1b4ea50ab51b0b16e",
+    "banner": "> **历史材料／非现行规范**：2026-10-19迁入需求包。下文保留当时语境，不是当前决策、实施授权或默认上下文；旧待办与驳回不自动生效。收尾状态见需求主记录。原路径：`docs/project/2026-10-10-official-implementation.md`。\n\n"
+  },
+  {
+    "source": "docs/qq-integration/2026-10-11-console-observability-plan.md",
+    "target": ".agents/notes/active/REQ-20261011-console-diagnostics/legacy/qq-integration/2026-10-11-console-observability-plan.md",
+    "source_sha256": "bbc5d2d63ebde7486e9f231abeeaed76822d9a087c63f5295c9ddb48c63d6a90",
+    "target_sha256": "536c7f3dd99196fe75181dad6a3164adc412986b929bdda76a09db8839348e76",
+    "body_without_link_destinations_sha256": "27fdad1b0969203b4d20f508a988e2a2499cfc356364017b3cb7b30acbbe3ccb",
+    "banner": "> **历史材料／非现行规范**：2026-10-19迁入需求包。下文保留当时语境，不是当前决策、实施授权或默认上下文；旧待办与驳回不自动生效。收尾状态见需求主记录。原路径：`docs/qq-integration/2026-10-11-console-observability-plan.md`。\n\n"
+  },
+  {
+    "source": "docs/qq-integration/2026-10-11-private-message-no-response.md",
+    "target": ".agents/notes/active/REQ-20261011-console-diagnostics/legacy/qq-integration/2026-10-11-private-message-no-response.md",
+    "source_sha256": "5bd5d4c414f26ef5606d8e0d268dd7110db75244f988272fb3e92b886de5747b",
+    "target_sha256": "9052d68d6994f2dd22f44796c5b663e4ab072b5b4ed43a57f62913f049d24143",
+    "body_without_link_destinations_sha256": "a4cdd680faabf09b33fe17cebd5291850bca7bdac0ac14463a5f0dc3cafeffee",
+    "banner": "> **历史材料／非现行规范**：2026-10-19迁入需求包。下文保留当时语境，不是当前决策、实施授权或默认上下文；旧待办与驳回不自动生效。收尾状态见需求主记录。原路径：`docs/qq-integration/2026-10-11-private-message-no-response.md`。\n\n"
+  },
+  {
+    "source": "docs/project/2026-10-11-templates-matcher.md",
+    "target": ".agents/notes/active/REQ-20261011-matcher-templates/legacy/project/2026-10-11-templates-matcher.md",
+    "source_sha256": "23253c25fe74533eb6df92961578083bcfea3b5d5b71324f53a88f1591dbc714",
+    "target_sha256": "26b3d1ba90961ad0ec3b67d609f7b183663745a353e891c214fe1cf1018546ff",
+    "body_without_link_destinations_sha256": "d1ea7139de21e328eb4c1fb4d0b6bfdacdd1d2c8f12ccb157d45ce7cd6c0242a",
+    "banner": "> **历史材料／非现行规范**：2026-10-19迁入需求包。下文保留当时语境，不是当前决策、实施授权或默认上下文；旧待办与驳回不自动生效。收尾状态见需求主记录。原路径：`docs/project/2026-10-11-templates-matcher.md`。\n\n"
+  },
+  {
+    "source": "docs/qq-integration/2026-10-11-matcher-templates.md",
+    "target": ".agents/notes/active/REQ-20261011-matcher-templates/legacy/qq-integration/2026-10-11-matcher-templates.md",
+    "source_sha256": "b4a263060918e2341be7662c2ab0e661983a9608fe84ab76cc4edea1bf4decf4",
+    "target_sha256": "a508ffb0828eed1d23f60737489ab678ee2246a5016f27d5e1f4dcd7604f780a",
+    "body_without_link_destinations_sha256": "43b43b17ebb9e73c7aa7a7da5209847fbc4fdb27f6007feccfceb39b9cd2448c",
+    "banner": "> **历史材料／非现行规范**：2026-10-19迁入需求包。下文保留当时语境，不是当前决策、实施授权或默认上下文；旧待办与驳回不自动生效。收尾状态见需求主记录。原路径：`docs/qq-integration/2026-10-11-matcher-templates.md`。\n\n"
+  },
+  {
+    "source": "docs/weather/2026-10-11-jwt-only.md",
+    "target": ".agents/notes/active/REQ-20261011-weather-jwt/legacy/weather/2026-10-11-jwt-only.md",
+    "source_sha256": "0a60d189853596fc4eb6c0867760bc170b51472ff2c5c78ef371672a948238d1",
+    "target_sha256": "b46101d9208404603933deed251038c4281940564104f4a53c49d7166b754476",
+    "body_without_link_destinations_sha256": "fcdb7db889bb29aba1bd29ae17be06a518d53e344191f863de1966694899d190",
+    "banner": "> **历史材料／非现行规范**：2026-10-19迁入需求包。下文保留当时语境，不是当前决策、实施授权或默认上下文；旧待办与驳回不自动生效。收尾状态见需求主记录。原路径：`docs/weather/2026-10-11-jwt-only.md`。\n\n"
+  },
+  {
+    "source": "docs/weather/2026-10-12-module-aggregation.md",
+    "target": ".agents/notes/active/REQ-20261012-weather-modules/legacy/weather/2026-10-12-module-aggregation.md",
+    "source_sha256": "cba817d9ae3a39f9b9aef28c63619fd516d0e417e59701737e519fb32071269f",
+    "target_sha256": "654fcc9b2691403b0339a959ae74ef5380ecd3754a0e687a45cad9c4d6fb59ad",
+    "body_without_link_destinations_sha256": "59a516060afa46e7f3ee59d36f677880d44f749fb2be4702928ec74fbeee4d0d",
+    "banner": "> **历史材料／非现行规范**：2026-10-19迁入需求包。下文保留当时语境，不是当前决策、实施授权或默认上下文；旧待办与驳回不自动生效。收尾状态见需求主记录。原路径：`docs/weather/2026-10-12-module-aggregation.md`。\n\n"
+  },
+  {
+    "source": "docs/qq-integration/2026-10-11-venv-ensurepip.md",
+    "target": ".agents/notes/active/REQ-20261011-uv-environment/legacy/qq-integration/2026-10-11-venv-ensurepip.md",
+    "source_sha256": "8022abf8008d48188195152015770701bdd61e871aea50d7d10204c2319e90a8",
+    "target_sha256": "cd31f47a4ff7c2a82a65db46f43e43428620e6ef08f6a274166a62b752a337d5",
+    "body_without_link_destinations_sha256": "3b832a1d06dfd835a2ad68e0ee6053f2bfe0c416e79ac568e91082eff29dfaf5",
+    "banner": "> **历史材料／非现行规范**：2026-10-19迁入需求包。下文保留当时语境，不是当前决策、实施授权或默认上下文；旧待办与驳回不自动生效。收尾状态见需求主记录。原路径：`docs/qq-integration/2026-10-11-venv-ensurepip.md`。\n\n"
+  },
+  {
+    "source": "docs/qq-integration/2026-10-12-websocket-proxy-importerror.md",
+    "target": ".agents/notes/active/REQ-20261012-websocket-direct/legacy/qq-integration/2026-10-12-websocket-proxy-importerror.md",
+    "source_sha256": "0f12c73ffd5bf4f9190e34a7aa61170fdfcc1125e0b3ef44151b06ab1e834de1",
+    "target_sha256": "706ab270408502d477199d5448adb9dc3709b6ecba9a1a2fad3ebe712b1f043b",
+    "body_without_link_destinations_sha256": "4ee406c945b160ead89c056497a41138f8acad705436dab44787d2a49b9860e1",
+    "banner": "> **历史材料／非现行规范**：2026-10-19迁入需求包。下文保留当时语境，不是当前决策、实施授权或默认上下文；旧待办与驳回不自动生效。收尾状态见需求主记录。原路径：`docs/qq-integration/2026-10-12-websocket-proxy-importerror.md`。\n\n"
+  },
+  {
+    "source": "docs/project/2026-10-16-official-only-cleanup.md",
+    "target": ".agents/notes/active/REQ-20261016-official-only/legacy/project/2026-10-16-official-only-cleanup.md",
+    "source_sha256": "67732afffbc5f4783b7dfde9f2c57f59b6869a9ccb2b5536d005b62b926904fa",
+    "target_sha256": "055fb499068700a6170f692992b11982e437789cf6b7b87c06778cbf767b7e3b",
+    "body_without_link_destinations_sha256": "b28bbc078478b5e70acfe48b580f17671aff3abc93275c022689888efe160bb0",
+    "banner": "> **历史材料／非现行规范**：2026-10-19迁入需求包。下文保留当时语境，不是当前决策、实施授权或默认上下文；旧待办与驳回不自动生效。收尾状态见需求主记录。原路径：`docs/project/2026-10-16-official-only-cleanup.md`。\n\n"
+  },
+  {
+    "source": "docs/project/2026-10-16-uv-entry-config-data-cleanup.md",
+    "target": ".agents/notes/active/REQ-20261016-uv-entry/legacy/project/2026-10-16-uv-entry-config-data-cleanup.md",
+    "source_sha256": "dad58a9ce5c15ff3d934d9e3dcedcca37cd80ec1aee97bd810c19d801b6b6c15",
+    "target_sha256": "9a75373f65bc5e170193c4de68e5a9ffa3a1c832c9872434ee919f536a3c280c",
+    "body_without_link_destinations_sha256": "5ec9322f8a428d62206cd77bc670d10694e0c78961ac6421d8d14bb179c2f039",
+    "banner": "> **历史材料／非现行规范**：2026-10-19迁入需求包。下文保留当时语境，不是当前决策、实施授权或默认上下文；旧待办与驳回不自动生效。收尾状态见需求主记录。原路径：`docs/project/2026-10-16-uv-entry-config-data-cleanup.md`。\n\n"
+  },
+  {
+    "source": "docs/project/2026-10-16-uv-run-no-build-backend.md",
+    "target": ".agents/notes/active/REQ-20261016-uv-no-backend/legacy/project/2026-10-16-uv-run-no-build-backend.md",
+    "source_sha256": "e4d635b44746ab1737fa9bc49d91d4a931e5e5193f31d48b15ec0f49374cb112",
+    "target_sha256": "a17d4b1c5ca8986c9516c89217559c73fbb7c64bf5f457f469ec64c7b0dadd99",
+    "body_without_link_destinations_sha256": "48186c42193e202cbc84cc863266c237b974695913f4b3f254e1fca73ad0a082",
+    "banner": "> **历史材料／非现行规范**：2026-10-19迁入需求包。下文保留当时语境，不是当前决策、实施授权或默认上下文；旧待办与驳回不自动生效。收尾状态见需求主记录。原路径：`docs/project/2026-10-16-uv-run-no-build-backend.md`。\n\n"
+  },
+  {
+    "source": "docs/project/2026-10-16-uv-only-dependency-management.md",
+    "target": ".agents/notes/active/REQ-20261016-uv-only/legacy/project/2026-10-16-uv-only-dependency-management.md",
+    "source_sha256": "b51e13ee95e24564b288681801ff4b1227d44dc837ba13433cd4f809d5754bc0",
+    "target_sha256": "ed369adc44b3f3007404357a2fc7e3e0ab3b8a6d44e2de0c134df2ac407ce57b",
+    "body_without_link_destinations_sha256": "cb7d0f9709a0ce0c6d0296bcdeb7a5e473e7ea7c9cb5c137c95d0587fc110aa3",
+    "banner": "> **历史材料／非现行规范**：2026-10-19迁入需求包。下文保留当时语境，不是当前决策、实施授权或默认上下文；旧待办与驳回不自动生效。收尾状态见需求主记录。原路径：`docs/project/2026-10-16-uv-only-dependency-management.md`。\n\n"
+  },
+  {
+    "source": "docs/usage-analytics/2026-10-10-plan.md",
+    "target": ".agents/notes/active/REQ-20261010-usage-analytics/legacy/usage-analytics/2026-10-10-plan.md",
+    "source_sha256": "418041ee22518a38f67d9ea4260ad2a2a570caf3b980f2ec2cee00451458a22d",
+    "target_sha256": "5302a265ab0ea0a74caf21ccb23eb128be9a71d1d9647dc514ec98a2298052b1",
+    "body_without_link_destinations_sha256": "33856cdfedeb4adcdda91ec7000a8c34d94fbf4b3f1ea025307a7725af06c87b",
+    "banner": "> **历史材料／非现行规范**：2026-10-19迁入需求包。下文保留当时语境，不是当前决策、实施授权或默认上下文；旧待办与驳回不自动生效。收尾状态见需求主记录。原路径：`docs/usage-analytics/2026-10-10-plan.md`。\n\n"
+  },
+  {
+    "source": "docs/usage-analytics/2026-10-12-chat-storage-implementation.md",
+    "target": ".agents/notes/active/REQ-20261010-usage-analytics/legacy/usage-analytics/2026-10-12-chat-storage-implementation.md",
+    "source_sha256": "980eaf6a56f976a5fbeb286e7d75f92b3a0170876bac1018abd35a2577b6d45d",
+    "target_sha256": "3ed294e36f46131c35e8efc09dce069e2601bf026fa2e996db194b26561a9725",
+    "body_without_link_destinations_sha256": "9f89e252f0998a7aa8310afa458375312a8ebc6f29f6e1932b920a3287e4907d",
+    "banner": "> **历史材料／非现行规范**：2026-10-19迁入需求包。下文保留当时语境，不是当前决策、实施授权或默认上下文；旧待办与驳回不自动生效。收尾状态见需求主记录。原路径：`docs/usage-analytics/2026-10-12-chat-storage-implementation.md`。\n\n"
+  },
+  {
+    "source": "docs/usage-analytics/analytics.example.toml",
+    "target": ".agents/notes/active/REQ-20261010-usage-analytics/legacy/usage-analytics/analytics.example.toml",
+    "source_sha256": "e3647f39ad0038bc2596de4326130c910af70787f9a06f1c4ba3d72c26b7eade",
+    "target_sha256": "e3647f39ad0038bc2596de4326130c910af70787f9a06f1c4ba3d72c26b7eade",
+    "body_without_link_destinations_sha256": "e3647f39ad0038bc2596de4326130c910af70787f9a06f1c4ba3d72c26b7eade",
+    "banner": ""
+  },
+  {
+    "source": "docs/chat-history/2026-10-13-data-model-proposal.md",
+    "target": ".agents/notes/active/REQ-20261013-chat-history/legacy/chat-history/2026-10-13-data-model-proposal.md",
+    "source_sha256": "74209717664048834df11d61f378309ab475df019e395c15f32f1b79f20bc87e",
+    "target_sha256": "1c26ea9b7185bfa6353cbc0d7554835acfe7435ebff1294cd9984747ae47410d",
+    "body_without_link_destinations_sha256": "b26e3db43df3a045dabd3c6d79ca2781c4cfa64013da13487b082bb5b4646565",
+    "banner": "> **历史材料／非现行规范**：2026-10-19迁入需求包。下文保留当时语境，不是当前决策、实施授权或默认上下文；旧待办与驳回不自动生效。收尾状态见需求主记录。原路径：`docs/chat-history/2026-10-13-data-model-proposal.md`。\n\n"
+  },
+  {
+    "source": "docs/chat-history/2026-10-13-model-log-discussion.md",
+    "target": ".agents/notes/active/REQ-20261013-chat-history/legacy/chat-history/2026-10-13-model-log-discussion.md",
+    "source_sha256": "b8e65141d0e19c7af529c1a86b7fa86705d0d27fd7f1b8c0fe24431eb8d6d173",
+    "target_sha256": "72cfaab92064f86be0bc19ad25e26575a684b14b53a8d71de0893d3661c5c780",
+    "body_without_link_destinations_sha256": "441969566c0856aa9c3a42c6e5838151527ec3b4d58c99504f45cc9269f9ffe8",
+    "banner": "> **历史材料／非现行规范**：2026-10-19迁入需求包。下文保留当时语境，不是当前决策、实施授权或默认上下文；旧待办与驳回不自动生效。收尾状态见需求主记录。原路径：`docs/chat-history/2026-10-13-model-log-discussion.md`。\n\n"
+  },
+  {
+    "source": "docs/chat-history/2026-10-13-database-review.md",
+    "target": ".agents/notes/active/REQ-20261013-chat-history/legacy/chat-history/2026-10-13-database-review.md",
+    "source_sha256": "342da7dd8581ba2c8cf71af09c6af184e7f38ab6225e703f85827bbdc1594626",
+    "target_sha256": "f2ee43cc5340daaebd098ea449efd94d40380104bfe6535cd2fb8b500f7f3294",
+    "body_without_link_destinations_sha256": "24bec7961116c63d4eb62ae6e7bb254e571e740c4a05eb2a7869f211257e7780",
+    "banner": "> **历史材料／非现行规范**：2026-10-19迁入需求包。下文保留当时语境，不是当前决策、实施授权或默认上下文；旧待办与驳回不自动生效。收尾状态见需求主记录。原路径：`docs/chat-history/2026-10-13-database-review.md`。\n\n"
+  },
+  {
+    "source": "docs/chat-history/2026-10-13-implementation.md",
+    "target": ".agents/notes/active/REQ-20261013-chat-history/legacy/chat-history/2026-10-13-implementation.md",
+    "source_sha256": "518e80bfdea923723c98dca18b7dfa9b27762d722cad7b1a85ca46b37b2ad8c5",
+    "target_sha256": "cc557c478f8839173f9ca2f7fb8f67127a171fb469e0981fe4748da73f6f4262",
+    "body_without_link_destinations_sha256": "3ae737e1e9c58fc74021554f1d7cfd9145433cee72353f2a4265ce5f4b63e236",
+    "banner": "> **历史材料／非现行规范**：2026-10-19迁入需求包。下文保留当时语境，不是当前决策、实施授权或默认上下文；旧待办与驳回不自动生效。收尾状态见需求主记录。原路径：`docs/chat-history/2026-10-13-implementation.md`。\n\n"
+  },
+  {
+    "source": "docs/chat-history/2026-10-16-permanent-history.md",
+    "target": ".agents/notes/active/REQ-20261016-permanent-history/legacy/chat-history/2026-10-16-permanent-history.md",
+    "source_sha256": "b1f71bd2307485d1b1927115c24dd3fcf0701e5ef2bc0aa723f454c47d2e5d7a",
+    "target_sha256": "d71106685eaa52bdb2989df3dec3d31b4e390c8ae28dffd20cc42ab1e5dfc60a",
+    "body_without_link_destinations_sha256": "b1f71bd2307485d1b1927115c24dd3fcf0701e5ef2bc0aa723f454c47d2e5d7a",
+    "banner": "> **历史材料／非现行规范**：2026-10-19迁入需求包。下文保留当时语境，不是当前决策、实施授权或默认上下文；旧待办与驳回不自动生效。收尾状态见需求主记录。原路径：`docs/chat-history/2026-10-16-permanent-history.md`。\n\n"
+  },
+  {
+    "source": "docs/project/2026-10-12-multi-instance-todo.md",
+    "target": ".agents/notes/active/REQ-20261012-multi-instance/legacy/project/2026-10-12-multi-instance-todo.md",
+    "source_sha256": "92f42fb0a60afd9ebfee32614093de02f5f54317f11a7f2d676c16d8b0ebcd90",
+    "target_sha256": "449ea024d192a467441bef02ff859356550b05b668d4703eb9c20a3e5dc8dccb",
+    "body_without_link_destinations_sha256": "67921a9062003e2c9a6b714192161a27ff08e07c5c46f0a19e3a7fe2b64f8920",
+    "banner": "> **历史材料／非现行规范**：2026-10-19迁入需求包。下文保留当时语境，不是当前决策、实施授权或默认上下文；旧待办与驳回不自动生效。收尾状态见需求主记录。原路径：`docs/project/2026-10-12-multi-instance-todo.md`。\n\n"
+  },
+  {
+    "source": "docs/qq-integration/2026-10-16-api-call-guide.md",
+    "target": ".agents/notes/active/REQ-20261016-api-snapshot/legacy/qq-integration/2026-10-16-api-call-guide.md",
+    "source_sha256": "53c4c428d889249f6332cb87fbda58c100494c185881a121d35b9c1183b85b2a",
+    "target_sha256": "9d3abb885ba4bb101d1ab9c61465d8dc9d56c4f8495b6009e0d756326aac5006",
+    "body_without_link_destinations_sha256": "fa717ddcb8df6e0c9b866853c0caf396e64094049410e94ee605fe110033e64e",
+    "banner": "> **历史材料／非现行规范**：2026-10-19迁入需求包。下文保留当时语境，不是当前决策、实施授权或默认上下文；旧待办与驳回不自动生效。收尾状态见需求主记录。原路径：`docs/qq-integration/2026-10-16-api-call-guide.md`。\n\n"
+  },
+  {
+    "source": "docs/templates/change-record.md",
+    "target": ".agents/notes/active/REQ-20261019-notes-lifecycle/legacy/change-record.md",
+    "source_sha256": "b09f44cdd28b6055d6528089c4c126744fcd44dca86d596676f5fe0b3a5a2281",
+    "target_sha256": "007919231d9e63dd66699c2e3691f7a83b805d7807ccea4a350fcfe1384c6adc",
+    "body_without_link_destinations_sha256": "bbbf009c7b3bdfd9657062bf809e9396354789178fbb4051ce145cef9aa47ec7",
+    "banner": "> **历史材料／非现行规范**：2026-10-19迁入需求包。下文保留当时语境，不是当前决策、实施授权或默认上下文；旧待办与驳回不自动生效。收尾状态见需求主记录。原路径：`docs/templates/change-record.md`。\n\n"
+  }
+]
